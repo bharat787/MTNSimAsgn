@@ -1,2 +1,3 @@
 # MTNSimAsgn
-Simulation of "A novel multi-objective optimization strategy for enhancing the qualityof service in IoT-enabled WSN applications"
+Simulation of "Hybrid multi-objective evolutionary algorithms based on
+decomposition for wireless sensor network coverage optimization"
