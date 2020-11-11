@@ -1,7 +1,7 @@
 clc
 clear all
 close all
-addpath([pwd '\Evaluation Metrics'])
+addpath([pwd '/Evaluation Metrics'])
 Hyper=[];
 NumofNDS=[];
 DeltaM=[];

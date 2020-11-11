@@ -58,6 +58,10 @@ solutionStruct = struct('numberOfSensors',[],'x',[],'y',[],'Rs',[],'Rc',[]);
     paretoFront.solutions = nsga3.paretoFront.solutions;
     paretoFront.solutionsObjectiveValues = nsga3.paretoFront.solutionsObjectiveValues ;
     
-   
+    i = 1;
+    if i == 1
+        tic;
+        i = 2;
+    end 
     toc;
 end

@@ -35,7 +35,7 @@ ConfData=[
          tStart=tic; 
          MainFile
          ExecutionTime=toc(tStart);
-          save(['..\results\WSD-NSGA-III_' num2str(index)],'seed','paretoFront',...
+          save(['../results/WSD-NSGA-III_' num2str(index)],'seed','paretoFront',...
         'ExecutionTime','numberOfSolutions','nsga3')
        
          
