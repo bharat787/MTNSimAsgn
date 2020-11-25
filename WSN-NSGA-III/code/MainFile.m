@@ -63,5 +63,8 @@ solutionStruct = struct('numberOfSensors',[],'x',[],'y',[],'Rs',[],'Rc',[]);
         tic;
         i = 2;
     end 
+    i = 1;
     toc;
+    
+
 end

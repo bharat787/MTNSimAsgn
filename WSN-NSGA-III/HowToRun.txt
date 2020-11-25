@@ -1,0 +1,17 @@
+To run the simulation:
+- Download the code to your local setup.
+- Open the WSN-NSGA-III folder with MATLAB.
+- Open to WSN-NSGA-III/code/configurationFile.m
+- Run the code.
+
+To see the results:
+- Go to WSN-NSGA-III/results folder.
+- Run any one of the following files:
+- plotResuts3D_pareto.m to show the comparasion btween NSGAII,NSGA3and MOJPSO.
+- MplotSensors.m to plot the sensor distribution for NSGA3.
+- MplotStatistics.m to plot the execution time and sensors number statistics for NSGA3.
+- plotResults2D.m to plot the pareto in 2D.
+
+** The current code was simulated on matlab for linux based machine 
+** if during the execution of the code it throws a path error for any 
+** file just change the forward slash '/' to backward slash '\' in the path
